@@ -1,0 +1,196 @@
+[
+    {
+        "url": "https://www.google.com/maps/search/?api=1&query=P%26H%20Boutique%20Menlyn&query_place_id=ChIJO9nz6ZsOlR4RsZpsiYdo3c8",
+        "searchString": "hhpmclothingstore in pretoria south africa",
+        "ranking": 2,
+        "searchPageUrl": "https://www.google.com/maps/search/hhpmclothingstore%20in%20pretoria%20south%20africa?hl=en",
+        "searchPageLoadedUrl": "https://www.google.com/maps/search/hhpmclothingstore+in+pretoria+south+africa/@-34.6283864,27.2516951,5z/data=!3m1!4b1?hl=en&entry=ttu",
+        "isAdvertisement": "0",
+        "name": "P&H Boutique Menlyn",
+        "description": null,
+        "price": null,
+        "categoryName": "Clothing store",
+        "address": null,
+        "neighborhood": null,
+        "street": null,
+        "street_name": [],
+        "city": null,
+        "postalCode": "None",
+        "state": null,
+        "countryCode": null,
+        "website": null,
+        "phone": "+27 71 484 2656",
+        "phoneUnformatted": "27714842656",
+        "claimThisBusiness": "0",
+        "location": {
+            "lat": -34.6283864,
+            "lng": 27.2516952
+        },
+        "locatedIn": null,
+        "plusCode": null,
+        "menu": null,
+        "totalScore": "4.5",
+        "permanentlyClosed": "0",
+        "placeId": "ChIJO9nz6ZsOlR4RsZpsiYdo3c8",
+        "cid": "14978242867039607473",
+        "reviewsCount": 99,
+        "imagesCount": 36,
+        "reserveTableUrl": null,
+        "googleFoodUrl": null,
+        "hotelStars": null,
+        "hotelDescription": null,
+        "depth": null,
+        "originalStartUrl": null,
+        "referrerUrl": null,
+        "domain": null,
+        "emails": null,
+        "phones": null,
+        "phonesUncertain": null,
+        "linkedIns": null,
+        "twitters": null,
+        "instagrams": null,
+        "facebooks": null,
+        "youtubes": null,
+        "tiktoks": null,
+        "pinterests": null,
+        "discords": null,
+        "reviews": [],
+        "additional_data": {
+            "additionalInfo": {
+                "Service options": [
+                    {
+                        "Delivery": true
+                    }
+                ],
+                "Payments": [
+                    {
+                        "Credit cards": true
+                    }
+                ]
+            },
+            "updatesFromCustomers": null,
+            "imageUrls": [],
+            "popularTimesLiveText": null,
+            "reviewsDistribution": {
+                "oneStar": 5,
+                "twoStar": 3,
+                "threeStar": 6,
+                "fourStar": 4,
+                "fiveStar": 81
+            },
+            "similarHotelsNearby": null,
+            "peopleAlsoSearch": [
+                {
+                    "category": "People also search for",
+                    "title": "L'Africaine Boutique",
+                    "reviewsCount": 30,
+                    "totalScore": 4.9
+                },
+                {
+                    "category": "People also search for",
+                    "title": "Forever New Menlyn",
+                    "reviewsCount": 31,
+                    "totalScore": 4.2
+                },
+                {
+                    "category": "People also search for",
+                    "title": "salvation",
+                    "reviewsCount": 16,
+                    "totalScore": 4.6
+                },
+                {
+                    "category": "People also search for",
+                    "title": "H&M",
+                    "reviewsCount": 393,
+                    "totalScore": 4.2
+                },
+                {
+                    "category": "People also search for",
+                    "title": "Poetry Menlyn Park",
+                    "reviewsCount": 13,
+                    "totalScore": 3.4
+                }
+            ],
+            "reviewsTags": [
+                {
+                    "title": "service",
+                    "count": 31
+                },
+                {
+                    "title": "mall",
+                    "count": 15
+                },
+                {
+                    "title": "mask",
+                    "count": 12
+                },
+                {
+                    "title": "designs",
+                    "count": 12
+                },
+                {
+                    "title": "happy",
+                    "count": 9
+                },
+                {
+                    "title": "wedding",
+                    "count": 8
+                },
+                {
+                    "title": "experience",
+                    "count": 7
+                },
+                {
+                    "title": "beautiful",
+                    "count": 7
+                },
+                {
+                    "title": "traditional wear",
+                    "count": 6
+                },
+                {
+                    "title": "hoodie",
+                    "count": 4
+                }
+            ],
+            "questionsAndAnswers": [
+                {
+                    "question": "Can you print on shirts?",
+                    "answers": [
+                        {
+                            "answer": "Hi. Yes. Please visit instore to discuss your needs. ",
+                            "answerDate": "PH Savannah Mall",
+                            "answeredBy": {
+                                "name": "PH Savannah Mall",
+                                "url": "https://www.google.com/maps/contrib/107185848762259975278"
+                            }
+                        }
+                    ],
+                    "askDate": "4 years ago",
+                    "askedBy": {
+                        "name": "Tshepiso Moroke",
+                        "url": "https://www.google.com/maps/contrib/105847657271707827379"
+                    }
+                }
+            ],
+            "orderBy": [],
+            "subTitle": null,
+            "popularTimesLivePercent": null,
+            "popularTimesHistogram": null,
+            "mapped_category": {
+                "Shopping": [
+                    "Clothing store"
+                ]
+            },
+            "categories": [
+                "Clothing store",
+                "Service establishment"
+            ],
+            "openingHours": [],
+            "placesTags": []
+        }
+    },
+    {
+        
+    }
+]
